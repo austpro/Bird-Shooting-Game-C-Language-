@@ -1,0 +1,44 @@
+﻿'one.exe': Loaded 'H:\ZubatSHooter game\game\Debug\one.exe', Symbols loaded.
+'one.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\user32.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'H:\ZubatSHooter game\game\GLUT32.DLL', Binary was not built with debug information.
+'one.exe': Loaded 'C:\Windows\SysWOW64\opengl32.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+'one.exe': Loaded 'C:\Windows\SysWOW64\gdi32.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\advapi32.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\winmm.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\glu32.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\msvcrt.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\ddraw.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\sechost.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\rpcrt4.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\winmmbase.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\dciman32.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\sspicli.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\devobj.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\cryptbase.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\imm32.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\msctf.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\uxtheme.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\combase.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\dwmapi.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\amdhdl32.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\shlwapi.dll', Cannot find or open the PDB file
+'one.exe': Unloaded 'C:\Windows\SysWOW64\shlwapi.dll'
+'one.exe': Unloaded 'C:\Windows\SysWOW64\amdhdl32.dll'
+'one.exe': Loaded 'C:\Windows\SysWOW64\ig75icd32.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\igdusc32.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\version.dll', Cannot find or open the PDB file
+'one.exe': Unloaded 'C:\Windows\SysWOW64\version.dll'
+'one.exe': Loaded 'C:\Windows\SysWOW64\powrprof.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\ole32.dll', Cannot find or open the PDB file
+'one.exe': Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0x16e4) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x1394) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x1a68) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0xe04) has exited with code 0 (0x0).
+The program '[5204] one.exe: Native' has exited with code 0 (0x0).
